@@ -1,46 +1,70 @@
-# 👋 Hi, I'm Avdhesh Sharma
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-🎓 B.Tech Computer Science Engineering (CSE) Student  
-💻 Aspiring Software Developer | Passionate about Coding & Problem Solving  
+###
 
----
+<div align="center">
+<a href="https://www.linkedin.com/in/avdhesh-sharma-120923286" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
+         height="25" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-## 🚀 About Me
-- 🌱 Currently learning **Data Structures & Algorithms**
-- 💡 Interested in **Software Development & Web Technologies**
-- 🛠️ Love building small projects to improve my skills
-- 🎯 Goal: Become a skilled and impactful software engineer
+###
 
----
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
-## 🧰 Tech Stack
-- **Languages:** Java, Python, C
-- **Web:** HTML, CSS, JavaScript
-- **Tools:** Git, GitHub, VS Code
-- **Concepts:** OOPs, DBMS, OS, CN
+###
 
----
+<h1 align="center">hey there 👋</h1>
 
-## 📂 Projects
-- 🔹 Student Management System  
-- 🔹 Web Development Mini Projects  
-- 🔹 DSA Practice Programs  
+###
 
-*(More projects coming soon 🚀)*
+<h3 align="left">👩‍💻  About Me</h3>
 
----
+###
 
-## 📈 GitHub Goals
-- Practice coding daily
-- Build real-world projects
-- Improve problem-solving skills
+<p align="left">I'm Avdhesh Sharma from  Jaipur<br><br>- 🔭 I’m working as Many Languages And Projects<br>- 📚 I'm currently learning Problem Solving In Python and JS also<br>- ⚡ In my free time I Doing Work On More Projects</p>
 
----
+###
 
-## 📫 Connect With Me
-- 💼 LinkedIn: *(www.linkedin.com/in/avdhesh-sharma-120923286)*
-- 📧 Email: *(avdheshsharma047@gmail.com)*
+<h3 align="left">🛠 Language and tools</h3>
 
----
+###
 
-⭐ Feel free to explore my repositories and give a star if you like them!
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
